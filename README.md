@@ -16,6 +16,9 @@ This bot uses data from excel
 You can talk with him like this:
 
 You> Hi
+
 Bot> Hello
+
 You> What is John salary?
+
 Bot> 1000$
